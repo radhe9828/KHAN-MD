@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
+  "name": "THE RADHE",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-MD"],
+  "logo": "https://files.catbox.moe/k4be1q.jpg",
+  "keywords": ["THE RADHE"],
   "success_url": "/",
 
   "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "THE RADHE"
     }, 
       
     "PREFIX": {
@@ -113,13 +113,13 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY THE RADHE🖤*"
     }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Thw radhe"
     }, 
 
     "OWNER_NUMBER": {
@@ -131,7 +131,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "THE RADHE"
     }, 
 
     "ANTI_LINK": {
@@ -155,13 +155,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://files.catbox.moe/k4be1q.jpg"
     },
     
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "* ᴩᴏᴡᴇʀᴅ ʙʏ ᴛʜᴇ ʀᴀᴅʜᴇ*"
     },
      
     "AUTO_REACT": {
